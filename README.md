@@ -1,9 +1,9 @@
 # DevOpsLinks Is Awesome
 "<strong>DevOpsLinks</strong>: <em>A free newsletter for DevOps, SysAdmin and Full Stack Developers</em>" is a community newsletter that I started two months ago. Through this post, I would like to share with you the interesting links that I shared with my subscribers' during the last 8 issues.
 
-If you are interested in joining <a href="http://devopslinks.com">DevOpsLinks</a>, you can <a href="http://devopslinks.com">subscribe to the future issue</a>s and join our <a href="https://eon01.typeform.com/to/dbk4wZ">Slack community</a>.
+If you are interested in joining <a href="http://devopslinks.com">DevOpsLinks</a>, you can <a href="http://devopslinks.com">subscribe to the future issues</a> and join our <a href="https://eon01.typeform.com/to/dbk4wZ">Slack community</a>.
 
-[caption id="attachment_477" align="aligncenter" width="1024"]<img class="wp-image-477 size-full" src="http://eon01.com/blog/wp-content/uploads/2016/05/tagcloud.png" alt="tagcloud" width="1024" height="768" /> DevOps Links Tag Cloud[/caption]
+<img class="wp-image-477 size-full" src="http://eon01.com/blog/wp-content/uploads/2016/05/tagcloud.png" alt="tagcloud" width="1024" height="768" />
 
 &nbsp;
 
