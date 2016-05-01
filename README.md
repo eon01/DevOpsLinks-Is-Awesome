@@ -438,4 +438,4 @@ If you are interested in joining <a href="http://devopslinks.com">DevOpsLinks</a
 
 &nbsp;
 
-If you are interested in joining <a href="http://devopslinks.com">DevOpsLinks</a>, you can <a href="http://devopslinks.com">subscribe to the future issue</a>s and join our <a href="https://eon01.typeform.com/to/dbk4wZ">Slack community</a>.
+If you are interested in joining <a href="http://devopslinks.com">DevOpsLinks</a>, you can <a href="http://devopslinks.com">subscribe to the future issues</a> and join our <a href="https://eon01.typeform.com/to/dbk4wZ">Slack community</a>.
